@@ -80,8 +80,14 @@ The dashboard was designed to provide a clear visual understanding of lung cance
 
 ## Key Insights
 
-(To be updated)
-
+- Male and female lung cancer patient distribution is nearly balanced across the dataset.
+- Smoking and chronic disease factors show slightly higher cancer positivity rates compared to alcohol consumption.
+- Patients aged 30–39 and 70–80 represent comparatively higher patient counts in the dataset
+- Chronic disease showed the highest proportion of lung cancer cases within the younger (30–39) age group compared to other factors such as smoking.
+- Smoking-associated lung cancer cases were also relatively higher in the 30–39 age category.
+- Anxiety showed the highest gender-based variation among observed symptoms, while chest pain showed the least variation.
+- Overall symptom distribution appears relatively balanced between genders.
+  
 ---
 
 ## Skills Demonstrated
