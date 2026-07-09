@@ -1,4 +1,4 @@
-# Lung Cancer Data Analysis Project
+# Lung Cancer Risk Factor Analysis Dashboard
 
 ## Project Overview
 The goal of this project is to analyze lung cancer patient data to identify possible behavioral and demographic risk factors associated with lung cancer cases.
